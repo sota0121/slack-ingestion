@@ -139,3 +139,9 @@ cython_debug/
 
 # program output
 call_functions_batch.sh
+
+# for macOS
+.DS_Store
+
+#
+.history/
